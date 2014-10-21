@@ -1,17 +1,17 @@
-# Translation of Twenty Fourteen in Japanese
-# This file is distributed under the same license as the Twenty Fourteen package.
 msgid ""
 msgstr ""
-"Project-Id-Version: Twenty Fourteen\n"
+"Project-Id-Version: Easy Watermark 0.6.0 \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-09-10 16:14+0100\n"
-"PO-Revision-Date: 2014-03-30 03:21:55+0000\n"
+"POT-Creation-Date: 2014-10-20 23:14+0100\n"
+"PO-Revision-Date: 2014-10-21 03:21:55+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: GlotPress/0.1\n"
 "Last-Translator: Shuhei Nishiura <marushu3@mac.com>\n"
+"X-Poedit-SearchPath-0: /media/szaleq/Data/easy-watermark/trunk/classes\n"
+"X-Poedit-SearchPath-1: /media/szaleq/Data/easy-watermark/trunk/views\n"
 
 #: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:170
 msgid "Cheatin&#8217; uh?"
