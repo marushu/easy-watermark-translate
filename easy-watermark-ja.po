@@ -1,0 +1,557 @@
+# Translation of Twenty Fourteen in Japanese
+# This file is distributed under the same license as the Twenty Fourteen package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Twenty Fourteen\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-09-10 16:14+0100\n"
+"PO-Revision-Date: 2014-03-30 03:21:55+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/0.1\n"
+"Last-Translator: Shuhei Nishiura <marushu3@mac.com>\n"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:170
+msgid "Cheatin&#8217; uh?"
+msgstr ""
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:207
+#: /media/szaleq/Data/easy-watermark/trunk/views/easy-watermark-page.php:10
+msgid "Watermark successfully added."
+msgstr "透かし追加しました。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:210
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:658
+msgid "watermarked"
+msgstr "透かしを設定しました。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:210
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:658
+msgid "not watermarked"
+msgstr "未設定"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:211
+#, php-format
+msgid "An Image has been marked as %s."
+msgstr "画像は %s に設定されています。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:217
+msgid "Invalid mime type."
+msgstr "不正なmineタイプです。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:220
+msgid "No watermark image selected and no watermark text set."
+msgstr "透かし画像とテキストが設定されていません。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:222
+msgid "Go to settings page"
+msgstr "設定ページへ"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:226
+msgid "An error has occurred."
+msgstr "エラーが発生しました。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:232
+msgid ""
+"Easy Watermark is active, but requires GD library to work. Please enable "
+"this extension."
+msgstr "Easy Watermakは有効化されていますが、動作するにはGDライブラリが必要です。この拡張子を有効にして下さい。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:232
+msgid "Read more"
+msgstr "続きを読む"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:256
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:283
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:675
+msgid "Add Watermark"
+msgstr "透かしを追加する"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:299
+msgid "Add watermark"
+msgstr "透かしを追加する"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:448
+#, php-format
+msgid "No permission to edit file %s. Skipping..."
+msgstr "%s ファイル名を編集する権限がありません 。スキップしています..."
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:453
+#, php-format
+msgid "Not supported mime type of %s. Skipping..."
+msgstr "%s mimeタイプはサポートされていません。スキップしています..."
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:459
+#, php-format
+msgid "Watermark successfully added to %s"
+msgstr "%s 透かし追加成功しました。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:644
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-settings.php:115
+#: /media/szaleq/Data/easy-watermark/trunk/views/easy-watermark-page.php:4
+msgid "Easy Watermark"
+msgstr ""
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:659
+msgid "Status"
+msgstr "ステータス"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:666
+msgid "mark as not watermarked"
+msgstr "透かし未設定"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:666
+msgid "mark as watermarked"
+msgstr "透かし設定済み"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-settings.php:88
+msgid "General"
+msgstr "一般"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-settings.php:89
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:29
+#, fuzzy
+msgid "Image"
+msgstr "透かし画像"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-settings.php:90
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:30
+msgid "Text"
+msgstr "テキスト"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-settings.php:317
+msgid "Settings"
+msgstr "設定"
+
+#: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-settings.php:330
+msgid "Donate"
+msgstr "寄付"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/about.php:2
+msgid "About"
+msgstr ""
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/about.php:4
+msgid "Plugin Version"
+msgstr "プラグインバージョン"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/about.php:5
+msgid "Plugin Author"
+msgstr "プラグイン作者"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/about.php:6
+msgid "GD library is enabled."
+msgstr "GDライブラリは有効化されています。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/about.php:6
+msgid "GD library is not available! Easy Watermark can't work without it."
+msgstr "GDライブラリが有効化されていません。Easy Watermark は動作できません。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/about.php:8
+msgid "Plugin page in WP repository"
+msgstr "プラグインページはWPリポジトリ内にあります。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/about.php:10
+msgid "FAQ"
+msgstr ""
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/about.php:12
+msgid "Support"
+msgstr "サポート"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/about.php:13
+msgid "Want to buy me a coffee?"
+msgstr "私にコーヒーをおごりませんか？"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/easy-watermark-page.php:10
+msgid "Go to Media Library"
+msgstr "メディアライブラリへ移動"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/easy-watermark-page.php:17
+msgid ""
+"You are about to watermark all images in the library. This action can not be "
+"undone. Are you sure you want to do this?"
+msgstr "ライブラリ内の全ての画像に透かしを入れようとしています。この操作は元に戻すことができません。実行してもよろしいですか？"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/easy-watermark-page.php:19
+msgid ""
+"You are about to watermark all images you have uploaded ever. This action "
+"can not be undone. Are you sure you want to do this?"
+msgstr "今までにアップロードした画像全てに透かしを追加しようとしています。この操作は元に戻すことができません。実行してもよろしいですか？"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/easy-watermark-page.php:22
+msgid "Proceed"
+msgstr "実行する"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/easy-watermark-page.php:22
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/easy-watermark-page.php:29
+msgid "Add watermark to all images"
+msgstr "全ての画像に透かしを追加する"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/easy-watermark-page.php:31
+msgid "Add watermark to all images uploaded by you"
+msgstr "アップロードした全ての画像に透かしを追加する"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/easy-watermark-page.php:33
+msgid ""
+"Be carefull with that option. If some images alredy has watermark, it will "
+"be added though."
+msgstr "オプションに注意してください。既に透かしが追加されている場合にも追加されます。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/placeholders.php:2
+msgid "Placeholders"
+msgstr "プレイスホルダー"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/placeholders.php:4
+msgid ""
+"You can use this placeholders in your text watermark, it will be replaced "
+"with proper value just befor applying watermark."
+msgstr "テキスト透かしにこのプレイスホルダーを使用できます。透かしを適用する前に置き換えられます。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/placeholders.php:6
+msgid "current user login"
+msgstr "現在のログインユーザー"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/placeholders.php:7
+msgid "current user display name"
+msgstr "現在のログインユーザー名"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/placeholders.php:8
+msgid "current user email address"
+msgstr "現在のログインユーザーメールアドレス"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/placeholders.php:9
+msgid "site admin email"
+msgstr "管理者のメールアドレス"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/placeholders.php:10
+msgid "blog title"
+msgstr "ブログタイトル"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/placeholders.php:11
+msgid "blog url"
+msgstr "ブログURL"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/placeholders.php:12
+msgid "current date (see general settings for date format)"
+msgstr "現在の日付（一般設定の日付フォーマットを確認してください）"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/placeholders.php:13
+msgid "current time"
+msgstr "現在時刻"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:3
+msgid "Auto Watermark"
+msgstr "Watermark について"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:4
+msgid "Add watermark when uploading images"
+msgstr "アップロード時に透かしを追加する"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:6
+#, fuzzy
+msgid "Image Types"
+msgstr "画像タイプ"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:10
+msgid "Select image types which should be watermarked"
+msgstr "透かしを設定したい画像タイプを選択してください"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:12
+#, fuzzy
+msgid "Image Sizes"
+msgstr "画像サイズ"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:23
+msgid "Select image sizes which should be watermarked"
+msgstr "透かし画像のサイズを選択してください"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:26
+msgid "Watermark Type"
+msgstr "透かし画像のタイプ"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:31
+msgid "Image + Text"
+msgstr "画像 + テキスト"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:33
+msgid "Choose, whether to apply image, text, or both."
+msgstr "画像、画像とテキスト両方を適用するかどうかを選択してください"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:36
+msgid "Jpeg Quality"
+msgstr "Jpeg画質"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:37
+msgid ""
+"Set jpeg quality from 0 (worst quality, smaller file) to 100 (best quality, "
+"biggest file)"
+msgstr "画質を設定してください。0（画質:粗 ファイルサイズ:小）〜 100（画質:高 ファイルサイズ:大）"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:39
+msgid "Date Format"
+msgstr "日付フォーマット"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:40
+msgid "Leave blank to use default date format (see general settings)"
+msgstr "デフォルトの日付を使用する場合は空欄のままにします。（一般設定を参照してください）"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:42
+msgid "Time Format"
+msgstr "時刻フォーマット"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:43
+msgid "Leave blank to use default time format"
+msgstr "デフォルトの日付を使用する場合は空欄のままにします。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:46
+msgid "User Roles"
+msgstr "ユーザー権限"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:47
+msgid ""
+"Select, which user roles can have a permission to apply watermarks (only "
+"roles with permission to upload files are listed here)"
+msgstr "透かし画像をアップロードすることができるユーザー権限を選択します。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:59
+msgid "allow"
+msgstr "許可する"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:60
+msgid "deny"
+msgstr "許可しない"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:64
+msgid "Allow to Auto Watermark"
+msgstr "全て許可"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:65
+msgid ""
+"Check this to allow watermarking on upload to every user. If unchecked, "
+"'Auto Watermark' function will be dependent on above role-based settings."
+msgstr "全てのユーザーに透かし画像アップロードを許可する場合、チェックします。チェックしない場合は上記権限ベース設定に依存します。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:68
+msgid "Post Types"
+msgstr "投稿タイプ"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:69
+msgid "Select what post type attachments should be automatically watermarked"
+msgstr "投稿タイプの添付画像に自動的に透かしを追加するかどうかを選択する。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:72
+msgid "Select All"
+msgstr "全て選択"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:75
+msgid "Unattached Images"
+msgstr "適用されていない画像"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:75
+msgid "uploaded through the media library page"
+msgstr "メディアライブラリからアップロード"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:76
+msgid "Posts"
+msgstr "投稿:"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-general.php:77
+#, fuzzy
+msgid "Pages"
+msgstr "ページ:"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:3
+msgid "Watermark Image"
+msgstr "透かし画像"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:8
+msgid "Choose Watermark Image"
+msgstr "透かし用の画像を選択してください。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:8
+msgid "Set as Watermark Image"
+msgstr "透かし画像を設定"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:8
+msgid "Select/Upload Image"
+msgstr "画像を選択します。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:8
+msgid ""
+"Note: If you want to upload a new image, make sure that \"Auto watermark\" "
+"option is unticked or text watermark is not set. Otherwise uploaded image "
+"will be watermarked."
+msgstr "注：新しい画像をアップロードしたい場合、「自動透かし」オプションのチェックを外すか、またはテキストの透かしが設定されていないことを確認してください。そうでない場合は、アップロードされた画像で透かしを入れます。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:17
+msgid "Click on image to change it."
+msgstr "透かし画像を変更するには、画像をクリックしてください。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:17
+msgid "Remove image"
+msgstr "透かしを削除"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:18
+msgid ""
+"Note: If you want to upload a new image, make sure that \"Auto watermark\" "
+"option is unticked, or remove current image and unset text watermark first. "
+"Otherwise uploaded image will be watermarked."
+msgstr "注：新しい画像をアップロードしたい場合、「自動透かし」オプションのチェックを外す     、またはテキストの透かしが設定されていないことを確認してください。そうでない場合は、アップ>    ロードされた画像で透かしを入れます。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:21
+msgid "Image Alignment"
+msgstr "画像位置"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:34
+msgid "Scaling Mode"
+msgstr "拡大縮小"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:36
+msgid "None"
+msgstr "なし"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:37
+msgid "Fill"
+msgstr "埋める"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:38
+msgid "Fit"
+msgstr "フィット"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:39
+msgid "Fit to Width"
+msgstr "幅にフィット"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:40
+msgid "Fit to Height"
+msgstr "高さにフィット"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:41
+msgid "Select how to scale watermark image."
+msgstr "画像拡大縮小を選択してください。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:42
+msgid "Scale to Smaller"
+msgstr "小さい方へ縮小"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:43
+msgid ""
+"If this is checked, watermark will be scaled only for images smaller than "
+"watermark image."
+msgstr "これにチェックすると、透かし画像より小さい場合に縮小されます。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:46
+msgid "Scale"
+msgstr "拡大縮小"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:49
+msgid "Image Offset"
+msgstr "画像オフセット"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:50
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-text.php:29
+msgid "x"
+msgstr ""
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:52
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-text.php:31
+msgid "y"
+msgstr ""
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:53
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-text.php:32
+msgid ""
+"Offset can be defined in pixels (just numeric value) or as percentage (e.g. "
+"'33%')"
+msgstr "数値か、割合（'%'）で設定してください。（例:'33%'）"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:55
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-text.php:62
+msgid "Opacity"
+msgstr "不透明度"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-image.php:55
+msgid "Opacity does not affect the png images with alpha chanel."
+msgstr "アルファチャネルPNG画像には影響しません。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-text.php:2
+msgid "Watermark Text"
+msgstr "透かしテキスト"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-text.php:3
+msgid "You can use placeholders listed on the right side of this page"
+msgstr "このページの右側に記載されているプレースホルダを使用することができます。"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-text.php:7
+msgid "Preview"
+msgstr "プレビュー"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-text.php:15
+msgid "Text Alignment"
+msgstr "テキスト位置"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-text.php:28
+msgid "Text Offset"
+msgstr "テキストオフセット"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-text.php:34
+msgid "Font"
+msgstr "フォント"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-text.php:45
+msgid "Text Color"
+msgstr "文字色"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-text.php:54
+msgid "Text Size"
+msgstr "文字サイズ"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-form-text.php:58
+msgid "Text Angle"
+msgstr "文字の角度"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-page.php:6
+msgid "Easy Watermark Settings"
+msgstr "Easy Watermark 設定"
+
+#: /media/szaleq/Data/easy-watermark/trunk/views/settings-page.php:22
+msgid "Save Changes"
+msgstr "設定を保存"
+
+#: /media/szaleq/Data/easy-watermark/views/easy-watermark-page.php:4
+msgid "Easy Watermark Tools"
+msgstr ""
+
+#: /media/szaleq/Data/easy-watermark/views/tools/easy-watermark-page.php:24
+msgid "Restore original images"
+msgstr "オリジナルへ復元"
+
+#: /media/szaleq/Data/easy-watermark/views/tools/easy-watermark-page.php:10
+msgid "Bulk Watermark"
+msgstr "メディアライブラリ内の全ての画像へ透かしを追加"
+
+#: /media/szaleq/Data/easy-watermark/views/tools/easy-watermark-page.php:14
+msgid "Using this tool you can quickly apply watermark to all images in the Media Library."
+msgstr "メディアライブラリ内の全ての画像に透かしを適用することができます。"
+
+#: /media/szaleq/Data/easy-watermark/views/tools/easy-watermark-page.php:20
+msgid "Be carefull with this option. If some images alredy has watermark, it will be added though."
+msgstr "既に透かしを適用済みの画像がある場合、更に適用されますのでご注意ください。"
+
+#: /media/szaleq/Data/easy-watermark/views/tools/easy-watermark-page.php:28
+msgid "Here you can remove watermark from all images by restoring the original image files."
+msgstr "オリジナル画像を復元することで、全ての画像から透かしを取り除くことができます。"
+
+#: /media/szaleq/Data/easy-watermark/views/tools/easy-watermark-page.php:20
+msgid "Start"
+msgstr "開始する"
+
+#: /media/szaleq/Data/easy-watermark/views/tools/easy-watermark-page.php:34
+msgid "Restore"
+msgstr "復元する"
