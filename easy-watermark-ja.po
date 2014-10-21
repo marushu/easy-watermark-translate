@@ -57,7 +57,7 @@ msgstr "エラーが発生しました。"
 msgid ""
 "Easy Watermark is active, but requires GD library to work. Please enable "
 "this extension."
-msgstr "Easy Watermakは有効化されていますが、動作するにはGDライブラリが必要です。この拡張子を有効にして下さい。"
+msgstr "Easy Watermakは有効化されていますが、動作するにはGDライブラリが必要です。有効にして下さい。"
 
 #: /media/szaleq/Data/easy-watermark/trunk/classes/class-ew-plugin.php:232
 msgid "Read more"
